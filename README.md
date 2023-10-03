@@ -1,5 +1,6 @@
 # Millenium-RAT, version 2.0☠️
-💎Fully telegram-controlled rat and stealer, second version of the Millenium. It is written in another programming language, so the file size is smaller. Also, some new features were added here, like a keylogger, user files encryption etc. ✨The price is 15$✨. Write to my telegram: <em>**@shinyenigma**</em>. You can see all the features below:
+💎Fully telegram-controlled rat and stealer, second version of the Millenium. It is written in another programming language, so the file size is smaller. Also, some new features were added here, like a keylogger, user files encryption etc. ✨The price is 15$✨. Write to my telegram: <em>**@shinyenigma**</em>. You can see all the features below
+<br /><em>(You can also check the original version of this RAT here: https://github.com/Shinyenigma/Millenium-RAT)</em>
 ## Features
 <br />⭐️ Common :
 <br />🔸 New - smaller file
