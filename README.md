@@ -50,3 +50,8 @@ Enjoy)😈😈😈(For educational purposes only😉)
 ![image](https://github.com/Shinyenigma/Millenium-RAT-2/assets/113016710/5cd7401b-3876-4c37-a62f-56f2bfa7e2a0)
 ![image](https://github.com/Shinyenigma/Millenium-RAT-2/assets/113016710/00b738f4-b4b1-4a63-b1b5-af977699c696)
 
+### Other screenshots
+![image](https://github.com/Shinyenigma/Millenium-RAT-2/assets/113016710/382ca704-96a6-446d-a7d7-a3765511556b)
+![image](https://github.com/Shinyenigma/Millenium-RAT-2/assets/113016710/a3988a78-3ee4-493a-bb2e-ce3ac74bb210)
+
+
